@@ -7,7 +7,8 @@ Asian Kitchen's Menu" için oluşturulmuştur.
 
 - Proje Görseli;
 
-Screen-Recording-_15.10.2022-23-12-27_.gif
+![Screen-Recording-_15 10 2022-23-12-27_](https://user-images.githubusercontent.com/105757474/196006609-8caa2895-2b2f-46af-aeb4-e794bdb37ab1.gif)
+
 
 ### [Patika.dev Profilim](https://app.patika.dev/canncelik)
 ### [Hacker Rank Profilim](https://www.hackerrank.com/ogulcan_celik24)
